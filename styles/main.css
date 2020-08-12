@@ -1,4 +1,4 @@
-h1{
+h1 {
     text-align: center;
     color: #2d1945;
 }
@@ -11,7 +11,7 @@ h1{
     align-content: flex-end;
 }
 
-.help {
+.sec-help {
     display: flex;
 }
 
@@ -23,7 +23,6 @@ h1{
     justify-content: center;
     align-items: center;
 }
-
 
 .img-button {
     width: 80px;
@@ -38,8 +37,4 @@ h1{
     color: #2d1945;
     font-size: 20pt;
     font-weight: 600;
-    
-    overflow: hidden;
-    transition: height 4s ease-in-out 0s, background-color 0.9s ease 0s;
-
 }
